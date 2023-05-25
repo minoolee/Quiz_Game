@@ -1,0 +1,50 @@
+Index: /home/user/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml
+===================================================================
+diff --git a//home/user/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml b//home/user/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml
+--- a//home/user/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml	
++++ b//home/user/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml	
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="123806df-3bc3-4b45-8abb-d49892af0b30" name="Changes" comment="">
++    <list default="true" id="123806df-3bc3-4b45-8abb-d49892af0b30" name="Changes" comment="start">
+       <change afterPath="$USER_HOME$/https:/github.com/minoolee/Quiz_Game/main.py" afterDir="false" />
+       <change beforePath="$USER_HOME$/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/https:/github.com/minoolee/Quiz_Game/.idea/workspace.xml" afterDir="false" />
+     </list>
+@@ -30,11 +30,11 @@
+     <option name="showExcludedFiles" value="false" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -44,6 +44,18 @@
+       <option name="presentableId" value="Default" />
+       <updated>1685039774507</updated>
+     </task>
++    <task id="LOCAL-00001" summary="start">
++      <created>1685047736477</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1685047736477</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="start" />
++    <option name="LAST_COMMIT_MESSAGE" value="start" />
++  </component>
+ </project>
+\ No newline at end of file
